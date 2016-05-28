@@ -1,4 +1,4 @@
-package com.tirthal.learning.camel.example.second;
+package com.tirthal.learning.camel.examples.second;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
