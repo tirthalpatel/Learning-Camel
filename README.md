@@ -10,3 +10,4 @@
 * https://github.com/apache/camel/tree/master/examples
 * https://github.com/camelinaction/camelinaction2
 * https://github.com/CamelCookbook/camel-cookbook-examples
+* http://kaviddiss.com/2015/09/06/learn-apache-camel/
