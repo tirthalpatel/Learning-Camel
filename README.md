@@ -1,5 +1,7 @@
 # Getting Started with Apache Camel
 
+Read related blog post [here](http://tirthalpatel.blogspot.com/2016/06/getting-started-with-apache-camel-and-spring-boot.html)
+
 ## Hello World of Apache Camel using Spring Boot
 [gs-camel-spring-boot-helloworld](https://github.com/tirthalpatel/Learning-Camel/tree/master/gs-camel-spring-boot-helloworld)
 

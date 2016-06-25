@@ -1,5 +1,7 @@
 # Hello World of Apache Camel using Spring Boot
 
+Read related blog post [here](http://tirthalpatel.blogspot.com/2016/06/getting-started-with-apache-camel-and-spring-boot.html)
+
 ## Prerequisite
 
 - Java 1.8+
