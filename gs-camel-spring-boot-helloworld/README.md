@@ -30,4 +30,4 @@
 
 ## Speaking Snapshot
 
-![https://github.com/tirthalpatel/Learning-Camel/blob/master/gs-camel-spring-boot-helloworld/snapshots/apache-camel-hawtio-demo.png]
+![HelloWorldJmsRouter example's explanation snapshot](https://github.com/tirthalpatel/Learning-Camel/blob/master/gs-camel-spring-boot-helloworld/snapshots/apache-camel-hawtio-demo.png)
